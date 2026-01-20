@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello, I'm Bruno Furtado!
 
-<!--
-**bruno-furtado-billor/bruno-furtado-billor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨🏻‍💻  About me
+Based in **Curitiba, Brazil**, I am a Data Engineer with expertise in [Google Cloud](https://cloud.google.com/) tools. Passionate about data, automation, and optimizing processes for efficiency and scalability.
 
-Here are some ideas to get you started:
+In the past, I worked as a backend developer using Java and was also involved in projects developing mobile applications for iOS and Android.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Key skills
+- 🔹 Team Leadership & Management
+- 🔹 Data Architecture
+- 🔹 Google Cloud Platform (**BigQuery**, **Storage**, **Cloud Run**, **Workflows** and others)
+- 🔹 SQL
+- 🔹 **Node.JS** and **Python** (for scripts)
+
+## 📫 How to reach me
+- 🌐 [Website](https://brunofurtado.dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/brunofurtado/)
+- 💻 [Personal GitHub](https://github.com/Bruno-Furtado/)
+- 📧 **brunotfurtado@gmail.com**
